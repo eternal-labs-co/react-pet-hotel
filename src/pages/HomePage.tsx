@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "wouter";
-import PetList from "./PetList";
 
 function HomePage() {
   return (
