@@ -6,7 +6,7 @@ A local pet hotel needs your help to improve their ability to serve their custom
 
 You will be implementing a basic, contrived version of authentication and authorization for the pet hotel management system as well as some read-only features. Approach this assignment as if you were working on a real-world project, including any planning and testing that you would normally do.
 
-Work in the order on the requirements below. The goal of this exercise is not to finish all requirements; rather, prioritize talking through the decisions you are making and why. Let these be a collaborative conversation as if you are pair-programming with the interviewer.
+Work in the order on the requirements below. The goal of this exercise is not to finish all requirements; rather, prioritize talking through the decisions you are making and why. Let this be a collaborative conversation as if you are pair-programming with the interviewer.
 
 You are welcome to look up documentation for the language and libraries you use, but please disable any AI tools before you begin.
 
