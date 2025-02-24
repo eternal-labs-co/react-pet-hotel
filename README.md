@@ -48,8 +48,9 @@ You are welcome to look up documentation for the language and libraries you use,
 
 - You can use the `wouter` library to handle routing. [Wouter Docs](https://github.com/molefrog/wouter)
 
-### Mocking
+### API
 
+- Assume that you have no control of the API design. Do not make any changes to the mocked endpoints or what data is returned.
 - The API is mocked with `msw`. This will run in both the browser and the test environment, so you can write tests without needing to mock fetch calls. [MSW Docs](https://mswjs.io/docs/)
 
 ### Testing
